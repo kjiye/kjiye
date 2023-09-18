@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjiye&langs_count=10&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjiye&langs_count=10&layout=compact&bg_color=00000000)
 
 ### Skills  
 #### Programming, Scripting, Query, Markup Languages  
